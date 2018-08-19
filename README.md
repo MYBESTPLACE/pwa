@@ -3,7 +3,7 @@
 Comment installer le projet:
 
 ```sh
-git clone git@github.com:CaptainJojo/pwa.git
+git clone https://github.com/CaptainJojo/pwa.git
 ````
 
 Puis
@@ -46,7 +46,7 @@ Avant de commencer ce tutoriel:
 L’installation du projet est très simple (suivez le README) ou les étapes suivantes :
 
 ```sh
-git clone git@github.com:CaptainJojo/pwa.git
+git clone https://github.com/CaptainJojo/pwa.git
 ````
 Puis allez dans le répertoire pwa et lancez l’installation.
 
