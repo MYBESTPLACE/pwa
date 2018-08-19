@@ -1,4 +1,4 @@
-## Votre première progressive web apps
+## Votre première progressive web app
 
 Comment installer le projet:
 
